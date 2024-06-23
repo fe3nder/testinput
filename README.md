@@ -9,11 +9,11 @@
 <div> Вход: nums = [2,7,11,15], target = 9 </div>
 <div> Выход: [0,1] </div>
 Объяснение: Так как nums[0] + nums[1] == 9, возвращаем [0, 1].
- 
+ <div> </div>
 <div> Пример 2: </div>
 <div> Вход: nums = [3,2,4], target = 6</div>
 <div> Выход: [1,2]</div>
- 
+ <div> </div>
 <div> Пример 3:</div>
 <div> Вход: nums = [3,3], target = 6</div>
 <div> Выход: [0,1] </div>
